@@ -1,7 +1,7 @@
 {
-  "name": "hello-system",
+  "name": "xm_prova1",
   "version": "1.0.0",
-  "description": "Greets the current operating system",
+  "description": "mira tu qye tal",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node index.js",
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/hermantnet/hello-system"
+    "url": "github.com/xmadueno/xm_prova1"
   },
-  "author": "Thomas E Herman Jr",
+  "author": "XM prova",
   "license": "ISC"
 }
